@@ -1,0 +1,29 @@
+/*
+ * Base structure
+ */
+
+/* Move down content because we have a fixed navbar that is 50px tall */
+
+
+.fa-4 {
+  font-size: 2rem;
+  color: white;
+}
+
+header {
+  background-color: #575659;
+  color: white;
+  /*height: 3rem;*/
+  padding: 10px 0px 0px 0px;
+}
+
+footer {
+  background-color: #575659;
+  color: white;
+  font-size: 12px;
+  padding: 1rem;
+}
+
+body {
+
+}
